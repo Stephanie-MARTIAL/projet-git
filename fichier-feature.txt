@@ -1,3 +1,5 @@
 Je suis le fichier feature.txt
 Je suis la ligne du dessus
 Je suis aussi une nouvelle ligne
+Je suis aussi une nouvelle ligne
+Je suis une autre nouvelle ligne
