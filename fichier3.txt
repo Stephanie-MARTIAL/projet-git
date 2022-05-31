@@ -1,1 +1,2 @@
 Je suis le fichier 3.txt
+Je suis la suite du fichier 3.txt
